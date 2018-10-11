@@ -1,3 +1,7 @@
+body {
+  background-color: rgb(246	246	246);
+}
+
 .login p {
   text-align: right;
    line-height: 1.125em;
@@ -8,6 +12,16 @@
 
 }
 
+.nav_list {
+  line-height: 1.125em;
+    margin: 0;
+    padding: 0.25em 0;
+    font-size: 0.75em;
+    word-wrap: break-word;
+}
+#center {
+  text-align: center;
+}
 .right_img {
   float: right;
   padding: 5px;
@@ -57,9 +71,23 @@
   text-align: right;
 }
 
+.bottom h3 {
+  margin: 0.5em;
+  background: #eeeeee;
+  border: 1px solid #ddd;
+  color: #222;
+  padding: 0.2em 0.4em;
+  font-size: 120%;
+  font-weight: bold;
+  font-family: inherit;
+}
+
 .bottom {
-
-
+  background-color: white;
+  overflow: auto;
+  border: 1px solid #e2e2e2;
+  overflow: auto;
+  margin-top: 4px;
 }
 
 

@@ -7,3 +7,30 @@
    white-space: nowrap;
 
 }
+
+.right_img {
+  float: right;
+  padding: 5px;
+}
+
+
+.left h3 {
+    margin: 0.5em;
+    background: #cef2e0;
+    font-family: inherit;
+    font-size: 120%;
+    font-weight: bold;
+    border: 1px solid #a3bfb1;
+    color: #000;
+    padding: 0.2em 0.4em;
+  }
+
+.left_img {
+  float: left;
+  padding: 5px;
+}
+
+
+.rigth-align {
+  text-align: right;
+}

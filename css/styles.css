@@ -1,0 +1,9 @@
+.login p {
+  text-align: right;
+   line-height: 1.125em;
+   margin-left: 0.75em;
+   margin-top: 0.5em;
+   font-size: 0.75em;
+   white-space: nowrap;
+
+}

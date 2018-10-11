@@ -13,7 +13,11 @@
   padding: 5px;
 }
 
-
+.left {
+  border: 1px solid #cedff2;
+  padding: 1px;
+  background-color: #f5fffa;
+}
 .left h3 {
     margin: 0.5em;
     background: #cef2e0;
@@ -30,7 +34,49 @@
   padding: 5px;
 }
 
+.right h3 {
+  margin: 0.5em;
+  background: #cedff2;
+  font-family: inherit;
+  font-size: 120%;
+  font-weight: bold;
+  border: 1px solid #a3b0bf;
+  color: #000;
+  padding: 0.2em 0.4em;
+}
+
+.right {
+  border: 1px solid #cedff2;
+  padding: 1;
+
+  background: #f5faff;
+
+}
 
 .rigth-align {
   text-align: right;
+}
+
+.bottom {
+
+
+}
+
+
+.purple {
+  margin-top: 4px;
+  border: 1px solid #ddcef2;
+  background: #faf5ff;
+  overflow: auto;
+}
+
+.purple h3 {
+  margin: 0.5em;
+  background: #ddcef2;
+  font-family: inherit;
+  font-size: 120%;
+  font-weight: bold;
+  border: 1px solid #afa3bf;
+  color: #000;
+  padding: 0.2em 0.4em;
 }
